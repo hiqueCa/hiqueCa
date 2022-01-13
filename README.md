@@ -1,7 +1,7 @@
 ### Hello, World! It's me, hiqueCa!!!
 
 - 🔭 Currently working with back-end development, specifically using Ruby on Rails and GraphQL!
-- 🌱 Currently learning GraphQL and more about Rails
+- 🌱 Currently learning GraphQL, more about RoR, HTML, CSS and Javascript basics.
 - 💬 You can ask me about Ruby, Rails, Python and general GraphQL concepts (maybe???)
 - 😄 Pronouns: He/Him/His
 
