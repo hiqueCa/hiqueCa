@@ -2,7 +2,7 @@
 
 - 🔭 Currently working with back-end development, specifically using Ruby on Rails and GraphQL!
 - 🌱 Currently learning GraphQL, more about RoR, HTML, CSS and Javascript basics.
-- 💬 You can ask me about Ruby, Rails, Python and general GraphQL concepts (maybe???)
+- 💬 You can ask me about Ruby, Rails, Python, CSS, HTML and general GraphQL concepts (maybe???)
 - 😄 Pronouns: He/Him/His
 
 <div align="center">
