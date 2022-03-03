@@ -17,7 +17,7 @@
   <img align="center" alt="hique-GQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   <img align="center" alt="hique-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="hique-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="hique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg">
+  <img align="center" alt="hique-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ##
