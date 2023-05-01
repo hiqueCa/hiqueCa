@@ -28,4 +28,5 @@
   <img align="center" alt="hique-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg">
   <img align="center" alt="hique-REA" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg">
   <img align="center" alt="hique-NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="hique-NODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div>
