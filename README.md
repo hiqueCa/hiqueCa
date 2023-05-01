@@ -2,7 +2,7 @@
 
 - 🔭 Currently working with full stack development, specifically using Ruby on Rails, GraphQL and React + Typescript.
 - 🌱 Currently learning more about
-- 💬 You can ask me about Ruby, Rails, Python, CSS, HTML, GraphQL, Javascript, Typescript and general basics of React.
+- 💬 You can ask me about Ruby, Rails, Python, CSS, HTML, GraphQL, Javascript, Typescript, React, Next.js and Node in general.
 - 😄 Pronouns: He/Him/His
 
 ### My stats:
