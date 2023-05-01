@@ -17,7 +17,7 @@
   
 ### I know about:
   
-<div style="display: inline_block">
+<div style="display: flex; align-items: center; justify-content: center">
   <img align="center" alt="hique-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="hique-Rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="hique-Ror" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
