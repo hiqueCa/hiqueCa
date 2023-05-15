@@ -10,8 +10,8 @@
 <div>
   <a href="https://github.com/hiqueCa">
   <div style="display: flex; flex-direction: column">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiqueCa&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiqueCa&langs_count=7&theme=dark&layout=compact">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hiqueCa&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiqueCa&langs_count=7&theme=dark&layout=compact">
   </div>
 </div>
   
