@@ -1,20 +1,7 @@
 ### Hello, World! It's me, hiqueCa!!!
 
-- 🔭 Currently working with full stack development, specifically using Ruby on Rails, GraphQL and React + Typescript.
-- 🌱 Currently learning more about
 - 💬 You can ask me about Ruby, Rails, Python, CSS, HTML, GraphQL, Javascript, Typescript, React, Next.js, Node in general, VueJs, among other contents as well...
-- 😄 Pronouns: He/Him/His
-
-### My stats:
-
-<div>
-  <a href="https://github.com/hiqueCa">
-  <div style="display: flex; flex-direction: column">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hiqueCa&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiqueCa&langs_count=7&theme=dark&layout=compact">
-  </div>
-</div>
-  
+    
 ### I know about:
   
 <div style="display: flex; align-items: center; justify-content: center">
